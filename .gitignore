@@ -1,0 +1,12 @@
+# Local environment variables
+.env
+
+# Go build artifacts
+mcp-server-echart
+mcp-server-echart.exe
+
+# Static files directory (generated content)
+/static/
+
+# IDE settings
+.idea/ 
