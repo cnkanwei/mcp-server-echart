@@ -18,7 +18,7 @@
 
 ### 1. 准备工作
 
-- [Go](https://golang.org/) (版本 1.21 或更高)
+- [Go](https://golang.org/) (版本 1.24 或更高)
 - [Docker](https://www.docker.com/) (可选，用于容器化部署)
 
 ### 2. 克隆与配置
